@@ -1,4 +1,7 @@
-﻿Login-AzureRmAccount
+﻿# Originally found here: https://stackoverflow.com/questions/35118432/is-it-possible-to-easily-copy-applications-settings-from-one-web-app-to-another
+# wanted to archive / improve for my needs
+
+Login-AzureRmAccount
 # If you have multiple subscriptions, you may need to set your context.
 Set-AzureRmContext -Subscription 'SubscriptionName'
 
